@@ -1,3 +1,7 @@
+### Une branche par implémentation du kata réalisée
+
+---
+
 Règles du jeu :
 Le jeu consiste en 10 tours comme indiqué. 
 A chaque tour le joueur a deux occasions de faire tomber les 10 quilles.
